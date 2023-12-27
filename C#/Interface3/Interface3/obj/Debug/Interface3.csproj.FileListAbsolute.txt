@@ -1,0 +1,8 @@
+C:\Users\TGSUser148\Desktop\C#\Interface3\Interface3\bin\Debug\Interface3.exe.config
+C:\Users\TGSUser148\Desktop\C#\Interface3\Interface3\bin\Debug\Interface3.exe
+C:\Users\TGSUser148\Desktop\C#\Interface3\Interface3\bin\Debug\Interface3.pdb
+C:\Users\TGSUser148\Desktop\C#\Interface3\Interface3\obj\Debug\Interface3.csproj.AssemblyReference.cache
+C:\Users\TGSUser148\Desktop\C#\Interface3\Interface3\obj\Debug\Interface3.csproj.SuggestedBindingRedirects.cache
+C:\Users\TGSUser148\Desktop\C#\Interface3\Interface3\obj\Debug\Interface3.csproj.CoreCompileInputs.cache
+C:\Users\TGSUser148\Desktop\C#\Interface3\Interface3\obj\Debug\Interface3.exe
+C:\Users\TGSUser148\Desktop\C#\Interface3\Interface3\obj\Debug\Interface3.pdb

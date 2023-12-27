@@ -1,0 +1,8 @@
+C:\Users\TGSUser148\Desktop\New folder\arrlist\arrlist\bin\Debug\arrlist.exe.config
+C:\Users\TGSUser148\Desktop\New folder\arrlist\arrlist\bin\Debug\arrlist.exe
+C:\Users\TGSUser148\Desktop\New folder\arrlist\arrlist\bin\Debug\arrlist.pdb
+C:\Users\TGSUser148\Desktop\New folder\arrlist\arrlist\obj\Debug\arrlist.csproj.AssemblyReference.cache
+C:\Users\TGSUser148\Desktop\New folder\arrlist\arrlist\obj\Debug\arrlist.csproj.SuggestedBindingRedirects.cache
+C:\Users\TGSUser148\Desktop\New folder\arrlist\arrlist\obj\Debug\arrlist.csproj.CoreCompileInputs.cache
+C:\Users\TGSUser148\Desktop\New folder\arrlist\arrlist\obj\Debug\arrlist.exe
+C:\Users\TGSUser148\Desktop\New folder\arrlist\arrlist\obj\Debug\arrlist.pdb

@@ -1,0 +1,8 @@
+C:\Users\TGSUser148\Desktop\New folder\stacks\stacks\bin\Debug\stacks.exe.config
+C:\Users\TGSUser148\Desktop\New folder\stacks\stacks\bin\Debug\stacks.exe
+C:\Users\TGSUser148\Desktop\New folder\stacks\stacks\bin\Debug\stacks.pdb
+C:\Users\TGSUser148\Desktop\New folder\stacks\stacks\obj\Debug\stacks.csproj.AssemblyReference.cache
+C:\Users\TGSUser148\Desktop\New folder\stacks\stacks\obj\Debug\stacks.csproj.SuggestedBindingRedirects.cache
+C:\Users\TGSUser148\Desktop\New folder\stacks\stacks\obj\Debug\stacks.csproj.CoreCompileInputs.cache
+C:\Users\TGSUser148\Desktop\New folder\stacks\stacks\obj\Debug\stacks.exe
+C:\Users\TGSUser148\Desktop\New folder\stacks\stacks\obj\Debug\stacks.pdb

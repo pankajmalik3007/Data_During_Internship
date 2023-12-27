@@ -1,0 +1,8 @@
+C:\Users\TGSUser148\Desktop\New folder\Modifier\Modifier\bin\Debug\Modifier.exe.config
+C:\Users\TGSUser148\Desktop\New folder\Modifier\Modifier\bin\Debug\Modifier.exe
+C:\Users\TGSUser148\Desktop\New folder\Modifier\Modifier\bin\Debug\Modifier.pdb
+C:\Users\TGSUser148\Desktop\New folder\Modifier\Modifier\obj\Debug\Modifier.csproj.AssemblyReference.cache
+C:\Users\TGSUser148\Desktop\New folder\Modifier\Modifier\obj\Debug\Modifier.csproj.SuggestedBindingRedirects.cache
+C:\Users\TGSUser148\Desktop\New folder\Modifier\Modifier\obj\Debug\Modifier.csproj.CoreCompileInputs.cache
+C:\Users\TGSUser148\Desktop\New folder\Modifier\Modifier\obj\Debug\Modifier.exe
+C:\Users\TGSUser148\Desktop\New folder\Modifier\Modifier\obj\Debug\Modifier.pdb

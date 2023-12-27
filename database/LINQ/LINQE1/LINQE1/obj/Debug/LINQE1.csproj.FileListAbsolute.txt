@@ -1,0 +1,8 @@
+C:\Users\TGSUser148\Desktop\database\LINQ\LINQE1\LINQE1\bin\Debug\LINQE1.exe.config
+C:\Users\TGSUser148\Desktop\database\LINQ\LINQE1\LINQE1\bin\Debug\LINQE1.exe
+C:\Users\TGSUser148\Desktop\database\LINQ\LINQE1\LINQE1\bin\Debug\LINQE1.pdb
+C:\Users\TGSUser148\Desktop\database\LINQ\LINQE1\LINQE1\obj\Debug\LINQE1.csproj.AssemblyReference.cache
+C:\Users\TGSUser148\Desktop\database\LINQ\LINQE1\LINQE1\obj\Debug\LINQE1.csproj.SuggestedBindingRedirects.cache
+C:\Users\TGSUser148\Desktop\database\LINQ\LINQE1\LINQE1\obj\Debug\LINQE1.csproj.CoreCompileInputs.cache
+C:\Users\TGSUser148\Desktop\database\LINQ\LINQE1\LINQE1\obj\Debug\LINQE1.exe
+C:\Users\TGSUser148\Desktop\database\LINQ\LINQE1\LINQE1\obj\Debug\LINQE1.pdb

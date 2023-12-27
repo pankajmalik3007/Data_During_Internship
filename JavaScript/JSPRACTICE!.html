@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+   
+</head>
+<body>
+    <p id="Demo"></p>
+    <!--<button type="button" onclick="mfun()">click me</button>-->
+   
+
+    
+      <!-- <script> 
+        // function mfun(){
+        //     document.getElementById("Demo").innerHTML="pratik";
+        // }
+            
+        // window alert
+        //window.alert(5+5);
+        //console.log
+        //console.log(5+5);
+
+           
+    //     printing page  
+  <button onclick="window.print()">Print this page</button> 
+    // 
+// function op(x,y){
+//     return  x+y;
+// }
+// let res = op(2,4);
+// document.getElementById("demo").innerHTML= res;
+//        </script> -->
+      <!--  Event
+        <button onclick="document.getElementById('Demo').innerHTML=Date()">The time is?</button>-->
+<!-- 
+    //ONCHANGE EVENT
+         <button id="myButton">Click me!</button>
+    <p id="output"></p>
+    <script>
+    const output = document.getElementById("output");
+    
+      const button = document.getElementById("myButton");
+      button.addEventListener("click", function() {
+        output.innerHTML = "clicked";
+      });
+    </script> -->
+
+    <!-- ONMOUSEOVER -->
+
+    <!-- <p> This program demonstrates the onmouse over event on the header h2</p>
+    <h2 id="demo4" onmouseover="mouseOver()"> Perform the mouse over on this header.</h2>
+    <script>
+    function mouseOver() {
+    document.getElementById("demo4").style.color = "blue";
+    }
+    </script> -->
+    <!-- <script>
+        const fruits = ["Banana", "Orange", "Apple", "Mango"];
+        let fLen = fruits.length;
+        
+        let text = "<ul>";
+        for (let i = 0; i < fLen; i++) {
+          text += "<li>" + fruits[i] + "</li>";
+        }
+        text += "</ul>";
+        
+        document.getElementById("Demo").innerHTML = text;
+        </script> -->
+
+        <!-- ARRAYS
+        <script>
+            const fruit = ["banana","Apple","mango"];
+            document.getElementById("Demo").innerHTML= fruit;
+
+
+            function myfun(){
+                fruit.push("Lemon");
+                document.getElementById("Demo").innerHTML = fruit;
+            }
+        </script>
+        <button type="button" onclick="myfun()">try it</button> -->
+
+        <!-- <script>
+
+        const fruit = ["banana","Apple","mango"];
+        fruit[6] = "lemon";
+
+        let pan = fruit.length;
+        let text =""
+        for(i=0; i<pan; i++){
+            text += fruit[i] + "<br>"
+        }
+
+        document.getElementById("Demo").innerHTML = text;
+        </script> -->
+
+        <!-- <script>
+            const hours = new Date().getHours()
+           let Message;
+
+            if(hours > 18){
+                Message = "Have a good day";
+            }
+            else {
+                Message = "Bad Day";
+            }
+            document.getElementById("Demo").innerHTML = Message;
+        </script>
+      -->
+      <!-- The JavaScript call() Method
+
+      <script>
+        const person = {
+            FName : function myfun(){
+                    return this.FsName + "" + this.Lname;
+            }
+
+            
+        }
+        const per1 = {
+            FsName : "Pankaj",
+            Lname : "Malik"
+        }
+        document.getElementById("Demo").innerHTML= person.FName.call(per1);
+      </script> -->
+
+     <!-- <script>
+
+        const details = {
+            info : function myfun(city , country){
+                return this.fname + "" + this.lanme;
+            }
+        }
+
+        let per1 = {
+            fname : "Pankaj",lanme : "malik"
+        }
+        document.getElementById("Demo").innerHTML = details.info.call(per1,"shirdi","Kop");
+      </script> -->
+      <!--  <p id = "demo"></p>
+      <script>
+
+        function myDisplayer(some){
+          document.getElementById("demo").innerHTML = some;
+        }
+
+        function add (sum1,sum2){
+          sum = sum1 + sum2;
+          return sum;
+        }
+
+        let result = add(5,6);
+        myDisplayer(result);
+
+
+
+        function Displayer (some){
+          document.getElementById("Demo").innerHTML = some;
+        }
+
+        function sub (sub1, sub2){
+          sub = sub1 -sub2;
+          Displayer(sub);
+        }
+        sub(10,5);
+      
+
+      <script>
+
+        function MyDisplayer(Some){
+          document.getElementById("Demo").innerHTML = Some;
+        }
+
+        const add = (a, b, myCallBAck) => {
+           sub = a + b;
+           myCallBAck(sub);
+        }
+
+        add(5,5,MyDisplayer);
+      </script>
+
+      <script>
+
+        let myNumbers = [10,-20,30,-5,18,-25];
+
+        let posnum = removeNeg(myNumbers, myNumbers=> myNumbers >0)
+
+       document.getElementById("Demo").innerHTML=posnum;
+
+       function removeNeg(myNumbers , Callback){
+        const myArray =[];
+        for(const x of myNumbers){
+          if(Callback(x)){
+            myArray.push(x);
+          }
+        }
+        return myArray;
+       }
+      </script> 
+
+
+      // Callback Functions
+      <script>
+        // Define the calculateSum function that takes an array and a callback function as parameters
+function calculateSum(numbers, callback) {
+  // Use the callback function to calculate the sum
+  const sum = callback(numbers);
+  return sum;
+}
+
+// Define a callback function called sumCallback to calculate the sum of positive numbers in an array
+function sumCallback(numbers) {
+  // Filter the array to keep only positive numbers
+  const positiveNumbers = numbers.filter((number) => number >= 0);
+
+  // Initialize a variable to store the sum
+  let sum = 0;
+
+  // Loop through the filtered array and add each positive number to the sum
+  for (const number of positiveNumbers) {
+    sum += number;
+  }
+
+  // Return the calculated sum
+  return sum;
+}
+
+// Example usage:
+const numbers = [-1, 2, -3, 4, -5, 6];
+
+const positiveSum = calculateSum(numbers, sumCallback);
+
+console.log("Sum of positive numbers:", positiveSum); // Output: 12 (2 + 4 + 6)
+ </script>
+
+
+ //SetInterval..................
+ <script>
+  setInterval(myFunction, 1000);
+  
+  function myFunction() {
+    let d = new Date();
+    document.getElementById("Demo").innerHTML=
+    d.getHours() + ":" +
+    d.getMinutes() + ":" +
+    d.getSeconds();
+  }
+  </script> -->
+
+  
+</body>
+</html>

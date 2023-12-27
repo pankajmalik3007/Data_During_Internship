@@ -1,0 +1,5 @@
+C:\Users\TGSUser148\Desktop\database\First_Ef\First_Ef\obj\Debug\net6.0\First_Ef.csproj.AssemblyReference.cache
+C:\Users\TGSUser148\Desktop\database\First_Ef\First_Ef\obj\Debug\net6.0\First_Ef.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TGSUser148\Desktop\database\First_Ef\First_Ef\obj\Debug\net6.0\First_Ef.AssemblyInfoInputs.cache
+C:\Users\TGSUser148\Desktop\database\First_Ef\First_Ef\obj\Debug\net6.0\First_Ef.AssemblyInfo.cs
+C:\Users\TGSUser148\Desktop\database\First_Ef\First_Ef\obj\Debug\net6.0\First_Ef.csproj.CoreCompileInputs.cache

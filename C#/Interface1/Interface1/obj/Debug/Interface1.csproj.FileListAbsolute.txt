@@ -1,0 +1,8 @@
+C:\Users\TGSUser148\Desktop\C#\Interface1\Interface1\bin\Debug\Interface1.exe.config
+C:\Users\TGSUser148\Desktop\C#\Interface1\Interface1\bin\Debug\Interface1.exe
+C:\Users\TGSUser148\Desktop\C#\Interface1\Interface1\bin\Debug\Interface1.pdb
+C:\Users\TGSUser148\Desktop\C#\Interface1\Interface1\obj\Debug\Interface1.csproj.AssemblyReference.cache
+C:\Users\TGSUser148\Desktop\C#\Interface1\Interface1\obj\Debug\Interface1.csproj.SuggestedBindingRedirects.cache
+C:\Users\TGSUser148\Desktop\C#\Interface1\Interface1\obj\Debug\Interface1.csproj.CoreCompileInputs.cache
+C:\Users\TGSUser148\Desktop\C#\Interface1\Interface1\obj\Debug\Interface1.exe
+C:\Users\TGSUser148\Desktop\C#\Interface1\Interface1\obj\Debug\Interface1.pdb

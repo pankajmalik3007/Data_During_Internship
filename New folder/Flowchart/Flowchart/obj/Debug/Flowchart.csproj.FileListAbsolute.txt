@@ -1,0 +1,8 @@
+C:\Users\TGSUser148\Desktop\New folder\Flowchart\Flowchart\bin\Debug\Flowchart.exe.config
+C:\Users\TGSUser148\Desktop\New folder\Flowchart\Flowchart\bin\Debug\Flowchart.exe
+C:\Users\TGSUser148\Desktop\New folder\Flowchart\Flowchart\bin\Debug\Flowchart.pdb
+C:\Users\TGSUser148\Desktop\New folder\Flowchart\Flowchart\obj\Debug\Flowchart.csproj.AssemblyReference.cache
+C:\Users\TGSUser148\Desktop\New folder\Flowchart\Flowchart\obj\Debug\Flowchart.csproj.SuggestedBindingRedirects.cache
+C:\Users\TGSUser148\Desktop\New folder\Flowchart\Flowchart\obj\Debug\Flowchart.csproj.CoreCompileInputs.cache
+C:\Users\TGSUser148\Desktop\New folder\Flowchart\Flowchart\obj\Debug\Flowchart.exe
+C:\Users\TGSUser148\Desktop\New folder\Flowchart\Flowchart\obj\Debug\Flowchart.pdb

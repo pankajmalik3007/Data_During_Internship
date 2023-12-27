@@ -1,0 +1,8 @@
+C:\Users\TGSUser148\Desktop\New folder\ListColle\ListColle\bin\Debug\ListColle.exe.config
+C:\Users\TGSUser148\Desktop\New folder\ListColle\ListColle\bin\Debug\ListColle.exe
+C:\Users\TGSUser148\Desktop\New folder\ListColle\ListColle\bin\Debug\ListColle.pdb
+C:\Users\TGSUser148\Desktop\New folder\ListColle\ListColle\obj\Debug\ListColle.csproj.AssemblyReference.cache
+C:\Users\TGSUser148\Desktop\New folder\ListColle\ListColle\obj\Debug\ListColle.csproj.SuggestedBindingRedirects.cache
+C:\Users\TGSUser148\Desktop\New folder\ListColle\ListColle\obj\Debug\ListColle.csproj.CoreCompileInputs.cache
+C:\Users\TGSUser148\Desktop\New folder\ListColle\ListColle\obj\Debug\ListColle.exe
+C:\Users\TGSUser148\Desktop\New folder\ListColle\ListColle\obj\Debug\ListColle.pdb

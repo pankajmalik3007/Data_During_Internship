@@ -1,0 +1,8 @@
+C:\Users\TGSUser148\Desktop\New folder\tuple1\tuple1\bin\Debug\tuple1.exe.config
+C:\Users\TGSUser148\Desktop\New folder\tuple1\tuple1\bin\Debug\tuple1.exe
+C:\Users\TGSUser148\Desktop\New folder\tuple1\tuple1\bin\Debug\tuple1.pdb
+C:\Users\TGSUser148\Desktop\New folder\tuple1\tuple1\obj\Debug\tuple1.csproj.AssemblyReference.cache
+C:\Users\TGSUser148\Desktop\New folder\tuple1\tuple1\obj\Debug\tuple1.csproj.SuggestedBindingRedirects.cache
+C:\Users\TGSUser148\Desktop\New folder\tuple1\tuple1\obj\Debug\tuple1.csproj.CoreCompileInputs.cache
+C:\Users\TGSUser148\Desktop\New folder\tuple1\tuple1\obj\Debug\tuple1.exe
+C:\Users\TGSUser148\Desktop\New folder\tuple1\tuple1\obj\Debug\tuple1.pdb

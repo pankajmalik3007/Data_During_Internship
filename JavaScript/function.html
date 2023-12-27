@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h3>Click Here to See Details</h3>
+    <button onclick = "Detail()" style="height: 40px; width: 50px; color: red ;background-color: black;font-size: medium;">click</button>
+    
+    <p id="demo"></p>
+    <script>
+    function Detail(){
+    function Person(Name, MobNo, age, gender,Email)
+     {
+    this.Name = Name;
+    this.MobNo = MobNo;
+    this.age=age;
+    this.gender=gender;
+    this.Email=Email;
+     }
+
+
+// Create a Person object
+    const per = new Person("Pankaj", 9284373007, 25, "Male","pankajmalik30072gmail.com");
+
+     document.getElementById("demo").innerHTML =  per.Name+"<br>" +"  " + per.MobNo+"<br>"+"  "+per.age+"<br>"+" "+per.gender+"<br>"+" "+per.Email;
+ }
+   </script>
+ 
+ </body>
+</html>

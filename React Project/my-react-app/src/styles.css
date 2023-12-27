@@ -1,0 +1,23 @@
+.counter-container .button {
+    margin: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .counter-container .increment {
+    background-color: rgb(1, 10, 1);
+    color: white;
+  }
+  
+  .counter-container .decrement {
+    background-color: rgb(236, 101, 101);
+    color: white;
+  }
+  
+  .counter-container .reset {
+    background-color: rgb(164, 235, 33);
+    color: white;
+  }
+  

@@ -1,0 +1,8 @@
+C:\Users\TGSUser148\Desktop\C#\Ifelse\Ifelse\bin\Debug\Ifelse.exe.config
+C:\Users\TGSUser148\Desktop\C#\Ifelse\Ifelse\bin\Debug\Ifelse.exe
+C:\Users\TGSUser148\Desktop\C#\Ifelse\Ifelse\bin\Debug\Ifelse.pdb
+C:\Users\TGSUser148\Desktop\C#\Ifelse\Ifelse\obj\Debug\Ifelse.csproj.AssemblyReference.cache
+C:\Users\TGSUser148\Desktop\C#\Ifelse\Ifelse\obj\Debug\Ifelse.csproj.SuggestedBindingRedirects.cache
+C:\Users\TGSUser148\Desktop\C#\Ifelse\Ifelse\obj\Debug\Ifelse.csproj.CoreCompileInputs.cache
+C:\Users\TGSUser148\Desktop\C#\Ifelse\Ifelse\obj\Debug\Ifelse.exe
+C:\Users\TGSUser148\Desktop\C#\Ifelse\Ifelse\obj\Debug\Ifelse.pdb

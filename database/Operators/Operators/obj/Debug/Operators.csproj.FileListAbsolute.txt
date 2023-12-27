@@ -1,0 +1,8 @@
+C:\Users\TGSUser148\Desktop\database\Operators\Operators\bin\Debug\Operators.exe.config
+C:\Users\TGSUser148\Desktop\database\Operators\Operators\bin\Debug\Operators.exe
+C:\Users\TGSUser148\Desktop\database\Operators\Operators\bin\Debug\Operators.pdb
+C:\Users\TGSUser148\Desktop\database\Operators\Operators\obj\Debug\Operators.csproj.AssemblyReference.cache
+C:\Users\TGSUser148\Desktop\database\Operators\Operators\obj\Debug\Operators.csproj.SuggestedBindingRedirects.cache
+C:\Users\TGSUser148\Desktop\database\Operators\Operators\obj\Debug\Operators.csproj.CoreCompileInputs.cache
+C:\Users\TGSUser148\Desktop\database\Operators\Operators\obj\Debug\Operators.exe
+C:\Users\TGSUser148\Desktop\database\Operators\Operators\obj\Debug\Operators.pdb

@@ -1,0 +1,8 @@
+C:\Users\TGSUser148\Desktop\C#\Anony\Anony\bin\Debug\Anony.exe.config
+C:\Users\TGSUser148\Desktop\C#\Anony\Anony\bin\Debug\Anony.exe
+C:\Users\TGSUser148\Desktop\C#\Anony\Anony\bin\Debug\Anony.pdb
+C:\Users\TGSUser148\Desktop\C#\Anony\Anony\obj\Debug\Anony.csproj.AssemblyReference.cache
+C:\Users\TGSUser148\Desktop\C#\Anony\Anony\obj\Debug\Anony.csproj.SuggestedBindingRedirects.cache
+C:\Users\TGSUser148\Desktop\C#\Anony\Anony\obj\Debug\Anony.csproj.CoreCompileInputs.cache
+C:\Users\TGSUser148\Desktop\C#\Anony\Anony\obj\Debug\Anony.exe
+C:\Users\TGSUser148\Desktop\C#\Anony\Anony\obj\Debug\Anony.pdb

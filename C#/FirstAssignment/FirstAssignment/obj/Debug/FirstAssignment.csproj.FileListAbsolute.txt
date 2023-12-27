@@ -1,0 +1,8 @@
+C:\Users\TGSUser148\Desktop\C#\FirstAssignment\FirstAssignment\bin\Debug\FirstAssignment.exe.config
+C:\Users\TGSUser148\Desktop\C#\FirstAssignment\FirstAssignment\bin\Debug\FirstAssignment.exe
+C:\Users\TGSUser148\Desktop\C#\FirstAssignment\FirstAssignment\bin\Debug\FirstAssignment.pdb
+C:\Users\TGSUser148\Desktop\C#\FirstAssignment\FirstAssignment\obj\Debug\FirstAssignment.csproj.AssemblyReference.cache
+C:\Users\TGSUser148\Desktop\C#\FirstAssignment\FirstAssignment\obj\Debug\FirstAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\TGSUser148\Desktop\C#\FirstAssignment\FirstAssignment\obj\Debug\FirstAssignment.csproj.CoreCompileInputs.cache
+C:\Users\TGSUser148\Desktop\C#\FirstAssignment\FirstAssignment\obj\Debug\FirstAssignment.exe
+C:\Users\TGSUser148\Desktop\C#\FirstAssignment\FirstAssignment\obj\Debug\FirstAssignment.pdb

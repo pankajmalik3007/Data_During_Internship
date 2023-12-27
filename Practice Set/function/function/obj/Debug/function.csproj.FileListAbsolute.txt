@@ -1,0 +1,8 @@
+C:\Users\TGSUser148\Desktop\Practice Set\function\function\bin\Debug\function.exe.config
+C:\Users\TGSUser148\Desktop\Practice Set\function\function\bin\Debug\function.exe
+C:\Users\TGSUser148\Desktop\Practice Set\function\function\bin\Debug\function.pdb
+C:\Users\TGSUser148\Desktop\Practice Set\function\function\obj\Debug\function.csproj.AssemblyReference.cache
+C:\Users\TGSUser148\Desktop\Practice Set\function\function\obj\Debug\function.csproj.SuggestedBindingRedirects.cache
+C:\Users\TGSUser148\Desktop\Practice Set\function\function\obj\Debug\function.csproj.CoreCompileInputs.cache
+C:\Users\TGSUser148\Desktop\Practice Set\function\function\obj\Debug\function.exe
+C:\Users\TGSUser148\Desktop\Practice Set\function\function\obj\Debug\function.pdb

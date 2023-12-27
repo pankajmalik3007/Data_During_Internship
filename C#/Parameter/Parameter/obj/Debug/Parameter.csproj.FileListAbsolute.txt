@@ -1,0 +1,8 @@
+C:\Users\TGSUser148\Desktop\C#\Parameter\Parameter\bin\Debug\Parameter.exe.config
+C:\Users\TGSUser148\Desktop\C#\Parameter\Parameter\bin\Debug\Parameter.exe
+C:\Users\TGSUser148\Desktop\C#\Parameter\Parameter\bin\Debug\Parameter.pdb
+C:\Users\TGSUser148\Desktop\C#\Parameter\Parameter\obj\Debug\Parameter.csproj.AssemblyReference.cache
+C:\Users\TGSUser148\Desktop\C#\Parameter\Parameter\obj\Debug\Parameter.csproj.SuggestedBindingRedirects.cache
+C:\Users\TGSUser148\Desktop\C#\Parameter\Parameter\obj\Debug\Parameter.csproj.CoreCompileInputs.cache
+C:\Users\TGSUser148\Desktop\C#\Parameter\Parameter\obj\Debug\Parameter.exe
+C:\Users\TGSUser148\Desktop\C#\Parameter\Parameter\obj\Debug\Parameter.pdb

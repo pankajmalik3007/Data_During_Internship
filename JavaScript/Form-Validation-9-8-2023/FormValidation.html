@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    
+</head>
+<body>
+    <Table>
+        <form name="MyForm" onsubmit= "return validate()  " method="post">
+            <table cellspacing = "2" cellpacellpadding = "2" border = "1">
+               <tr>
+               <td align = "left">FirstName</td>
+               <td><input type = "text" name = "FirstName" /></td>
+            </tr>
+             <tr>
+               <td align="left">LastName</td>
+               <td><input type = "text" name = "LastName" /></td>
+            </tr>
+              <tr>
+               <td align="left">EMail</td>
+               <td><input type = "text" name = "EMail" /></td>
+            </tr>
+              <tr>
+               <td align="left">City</td>
+               <td>
+                  <select name = "City">
+                     <option value = "-1" selected>[choose yours]</option>
+                     <option value = "1">Pune</option>
+                     <option value = "2">Mumbai</option>
+                     <option value = "3">Delhi</option>
+                  </select>
+               </td>
+            </tr>
+            <tr>
+                <td>
+            <legend>Gender</legend>
+             <input type="checkbox" id="Male" name="Male" checked />
+             <label for="Male">Male</label>
+             <input type="checkbox" id="Female" name="Female" />
+              <label for="Female">Female</label>
+           
+            </td>
+        </tr>
+        <tr>
+         <td>Hobby
+             <input type="text" name="Hobby" id="text">
+         </td>
+    </tr>
+            </table>
+            <input type="submit" id="submit" value="submit">
+        </form>
+    </Table>
+    
+    <script>
+      function validate() {
+    
+    if( document.MyForm.FirstName.value == "" ) {
+       alert( "Please provide your FirstName " );
+       document.MyForm.FirstName.focus() ;
+       return false;
+    }
+    if( document.MyForm.LastName.value == "" ) {
+       alert( "Please provide your LastName " );
+       document.MyForm.LastName.focus() ;
+       return false;
+    }
+    if( document.MyForm.EMail.value == "" ) {
+          alert( "Please provide your Email!" );
+          document.MyForm.EMail.focus() ;
+          return false;
+       }
+       if( document.MyForm.City.value == "-1" ) {
+          alert( "Please Select City" );
+          document.MyForm.EMail.focus() ;
+          return false;
+       }
+       if(document.MyForm.checkbox.value == "")
+          {
+              alert("Please select your gender");
+              document.MyForm.Gender.Focus();
+              return false;
+          }
+          if(document.MyForm.Hobby.value == "")
+            {
+                alert("Please Enter Your Hobby");
+                document.MyForm.Hobby.Focus();
+                return false;
+            }
+            return true;
+  }
+  
+  </script>
+</body>
+
+</html>

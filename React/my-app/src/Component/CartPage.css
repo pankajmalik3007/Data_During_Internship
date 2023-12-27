@@ -1,0 +1,30 @@
+/* CartPage.css */
+
+/* Apply styles to the container */
+.container {
+    margin-top: 20px;
+  }
+  
+  /* Style for individual card items in the cart */
+  .card {
+    margin-bottom: 20px;
+  }
+  
+  /* Style for the total price section */
+  .total-price {
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-top: 20px;
+  }
+  
+  /* Style for the empty cart message */
+  .empty-cart-message {
+    font-style: italic;
+    margin-top: 20px;
+  }
+  
+  /* Style for the remove button */
+  .remove-button {
+    margin-top: 10px;
+  }
+  

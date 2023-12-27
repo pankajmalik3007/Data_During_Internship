@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <!-- // CREATING AN MAP FROM AN ARRAY
+    <P id = "demo"></P>
+    <script>
+        let Cars = new Map([
+            ["BMW", 9000000],
+            ["TATASAFARI", 897695],
+            ["MAHINDRA", 8475859]
+        ]);
+
+        document.getElementById("demo").innerHTML= Cars.get("BMW");
+    </script> -->
+
+    <p id = "demo"></p>
+    <script>
+const car = new Map();
+
+        car.set("Safari", 34567);
+        car.set("Mahindra" , 67896);
+        car.set("Thar" , 898799);
+        car.set("Nano", 890567);
+        car.set("Ballero" , 45896);
+        car.set("Audi" , 845799);
+        
+        //car.delete("Ballero");
+
+
+        //MAP DISPLAY USING FOR EACH LOOP
+
+        // let text = "";
+        // car.forEach(function(value ,key){
+        //     text += key + " = " + value  + "<br>"
+        // })
+        // document.getElementById("demo").innerHTML = text;
+
+
+        // MAP DISPLAY USING ENTRIES METHOD()
+
+        let text = "";
+        for(const x of car.entries())
+        {
+            text += x + "<br>";
+        }
+        document.getElementById("demo").innerHTML = text;
+
+        //document.getElementById("demo").innerHTML= car.has("Ballero");
+        // document.getElementById("demo").innerHTML = car.size;
+        //document.getElementById("demo").innerHTML= car.get("Safari");
+    </script>
+</body>
+</html>

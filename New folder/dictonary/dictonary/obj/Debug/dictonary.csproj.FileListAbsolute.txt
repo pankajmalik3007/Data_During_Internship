@@ -1,0 +1,8 @@
+C:\Users\TGSUser148\Desktop\New folder\dictonary\dictonary\bin\Debug\dictonary.exe.config
+C:\Users\TGSUser148\Desktop\New folder\dictonary\dictonary\bin\Debug\dictonary.exe
+C:\Users\TGSUser148\Desktop\New folder\dictonary\dictonary\bin\Debug\dictonary.pdb
+C:\Users\TGSUser148\Desktop\New folder\dictonary\dictonary\obj\Debug\dictonary.csproj.AssemblyReference.cache
+C:\Users\TGSUser148\Desktop\New folder\dictonary\dictonary\obj\Debug\dictonary.csproj.SuggestedBindingRedirects.cache
+C:\Users\TGSUser148\Desktop\New folder\dictonary\dictonary\obj\Debug\dictonary.csproj.CoreCompileInputs.cache
+C:\Users\TGSUser148\Desktop\New folder\dictonary\dictonary\obj\Debug\dictonary.exe
+C:\Users\TGSUser148\Desktop\New folder\dictonary\dictonary\obj\Debug\dictonary.pdb

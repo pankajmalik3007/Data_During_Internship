@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+<!-- 
+    Function Placed Under a head
+    <script>
+        function myfun(){
+            document.getElementById("demo").innerHTML= "change paragraph";
+        }
+    </script> -->
+</head>
+<body>
+<!--   
+    <p id = "demo"> </p>
+    
+    <script>
+        document.getElementById("demo").innerHTML="My First Javascript";
+    </script>
+     -->
+
+     <!-- 
+     OUTER JS
+ <p id = "demo">paragraph</p>
+ <button type="button" onclick="myfun()">click here</button>
+ <script src = "Practice.js"></script> -->
+ <P id = "demo"></P>
+ <P id = "demo1"></P>
+ <P id = "demo2"></P>
+<button type="button" onclick="myfun()"> click here</button>
+<script>
+    
+    function myfun(Name, age ,MobNo){
+       
+        let person = {
+            Name : "Pankaj",
+            age : 21,
+            MobNo : "928437"
+     }
+     
+        
+        document.getElementById("demo").textContent = "Name :" + person.Name;
+        document.getElementById("demo1").textContent = "Age :" + person.age;
+        document.getElementById("demo2").textContent = "MobNo :" + person.MobNo;
+     };
+    
+</script>
+
+</body>
+</html>
+
+
